@@ -1,0 +1,504 @@
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\appsettings.Development.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\appsettings.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.staticwebassets.runtime.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.exe
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.deps.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.runtimeconfig.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.pdb
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.AssemblyInfo.cs
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.RazorAssemblyInfo.cache
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.RazorAssemblyInfo.cs
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets.build.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets.development.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.build.RazorPagesMovie.props
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesMovie.props
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RazorPagesMovie.props
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\scopedcss\bundle\RazorPagesMovie.styles.css
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\scopedcss\projectbundle\RazorPagesMovie.bundle.scp.css
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\refint\RazorPagesMovie.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.pdb
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.genruntimeconfig.cache
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\ref\RazorPagesMovie.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Azure.Core.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Azure.Identity.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Humanizer.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Build.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Common.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.CodeDom.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Memory.Data.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.csproj.AssemblyReference.cache
+D:\VS 2022\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPag.6F531686.Up2Date
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\appsettings.Development.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\appsettings.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.staticwebassets.runtime.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.exe
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.deps.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.runtimeconfig.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\RazorPagesMovie.pdb
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Azure.Core.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Azure.Identity.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Humanizer.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Build.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Common.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.CodeDom.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Memory.Data.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.csproj.AssemblyReference.cache
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.AssemblyInfoInputs.cache
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.AssemblyInfo.cs
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.RazorAssemblyInfo.cache
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.RazorAssemblyInfo.cs
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets.build.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets.development.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.build.RazorPagesMovie.props
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesMovie.props
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RazorPagesMovie.props
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\staticwebassets.pack.json
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\scopedcss\bundle\RazorPagesMovie.styles.css
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\scopedcss\projectbundle\RazorPagesMovie.bundle.scp.css
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPag.6F531686.Up2Date
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\refint\RazorPagesMovie.dll
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.pdb
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.genruntimeconfig.cache
+G:\university\sss\lab12\RazorPagesMovie\RazorPagesMovie\obj\Debug\net8.0\ref\RazorPagesMovie.dll
